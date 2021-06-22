@@ -1,5 +1,5 @@
 #create a list with duplicates
-#using the fromkeys() function generate a dictionary from keys
+#using the set function generate a dictionary
 #then convert the dictionary back into a list with no duplicate
 #prints the new list
 

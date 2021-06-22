@@ -6,7 +6,7 @@
 import random
 
 def password():
-    user_input = input("Type strong for a strong password and fair for a fair password: ")
+    user_input = input("Type strong or fair: ")
 
     if user_input.lower() == 'fair':
         return random.choice(['name123', 'pass12', 'memyself'])

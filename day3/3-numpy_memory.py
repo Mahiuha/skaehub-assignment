@@ -4,7 +4,6 @@
 #print out the memory occupied by the array back to the user as output 
 
 import numpy as np
-import random
 
 numbers_array = [input("Input a number: ") for i in  range(5)]
 #n = np.array([1, 2, 3, 4, 5])

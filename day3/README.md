@@ -7,13 +7,13 @@
 
 ```Write a NumPy program to get the dates of yesterday, today and tomorrow```
 
-<img src="./Question1.gif" alt="My Project GIF" width="500" height="600">
+<img src="./Question1.gif" alt="My Project GIF" width="600" height="400">
 
 *Question2*
 
 ```Write a NumPy program to find the number of weekdays in a given month. Allow the user to input the month and year of their choice```
 
-<img src="./Question2.gif" alt="My Project GIF" width="500" height="600">
+<img src="./Question2.gif" alt="My Project GIF" width="600" height="400">
 
 *Question3*
 

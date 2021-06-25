@@ -19,7 +19,7 @@
 
 ```Write a NumPy program to create an array with at least 5 user input integers and determine the size of the memory occupied by the array```
 
-<img src="./Question3.gif" alt="My Project GIF" width="500" height="600">
+<img src="./Question3.gif" alt="My Project GIF" width="600" height="400">
 
 
 

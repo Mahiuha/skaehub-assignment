@@ -5,7 +5,6 @@
 
 *Question1*
 
-```Write a NumPy program to get the dates of yesterday,
-today and tomorrow```
+```Write a NumPy program to get the dates of yesterday, today and tomorrow```
 
 

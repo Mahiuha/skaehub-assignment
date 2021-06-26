@@ -13,7 +13,7 @@ Here are the tools used to work on the assignment
      * Download python3 and run the scripts.
      * Pip install git.
      
-# Python Problems
+# Python Problem Sets.
      
 `1. Write A Function`
 

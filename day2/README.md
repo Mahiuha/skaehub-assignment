@@ -30,7 +30,7 @@ Given a year, determine whether it is a leap year. If it is a leap year, return 
 
 `3. Write a password generator function in Python. Strong passwords have a mix of lowercase letters, uppercase letters, numbers, and symbols. The passwordsshould be random, generating a new password every time the user asks for a new password. Include your run-time code in a main method.For extra credit:`
 
-● Ask the user how strong they want their password to be.
+* Ask the user how strong they want their password to be.
 
 `4. Write a Python program to read a given CSV file as a dictionary. Feel free to read any CSV of your choice`
 

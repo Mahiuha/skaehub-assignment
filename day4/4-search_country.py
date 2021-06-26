@@ -1,9 +1,18 @@
-#importing the Nominatim API from geopy.geocoders library
+#import nominatim API from the geopy.geocoders library
 from geopy.geocoders import Nominatim
 
-#initializing the nominatim API
-geolocator = Nominatim(user_agent='question3')
+#initializes the Nominatim API 
+geolocator = Nominatim(user_agent="question1")
 
-#reversing latitude and longitude back to location
-location1 = geolocator.reverse("-1.3031689499999999, 36.826061224105075")
-print(location1.address)
+#Prompt user to enter zip for Kenya one must add Town name then the zip code
+entered_state = input("Enter a State or Town name: ")
+print("\nCountry:",entered_state)
+
+#Pass state to geolocator(nominatim) function
+#geocode resolves a location from a string
+location = geolocator.geocode(entered_state)
+##print("Details of the said pincode:")
+details = location.address
+
+country = details.split(',')
+print(country[-1])

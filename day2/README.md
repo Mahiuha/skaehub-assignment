@@ -31,4 +31,4 @@ Here are the tools used to work on the assignment
 
 `7. Create a Python project to read public data returned from URL, and parsing JSON to a dictionary object.`
 
-# BLOG. - [On Becoming A Pythonista Through Skaehub.](https://link.medium.com/oKbTEXjOohb)
+

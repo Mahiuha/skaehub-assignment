@@ -34,4 +34,8 @@ Here are the tools used to work on the assignment
 
 `6. Write a Python program to sort a list of dictionaries using Lambda.`
 
+# BLOG.
+
+# [Lift off!!! Week One Python Boot Camp.](https://link.medium.com/NO2TtOtSohb)
+
 `7. Write a Python program to find the maximum and minimum values in a given list of tuples using a lambda function.`

@@ -7,11 +7,15 @@ Here are the tools used to work on the assignment
      * Python3.
      * Git.
      * Github.
+     * Lambda.
+     * Nominatim API.
+     * Geopy.
      
 # Installation.
 
      * Download python3 and run the scripts.
      * Pip install git.
+     * Install Geopy.
      
 # Python Problem Sets.
      

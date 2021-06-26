@@ -10,7 +10,7 @@ Each directory contains python projects and code that I wrote during my week 1 a
 
 | Directory | Description |
 | --- | --- |
-| Day1 | Interfacing with SQLite database, we wrote a Python program to create an SQLite database and connect with the database and print the version of the SQLite database. |
-| Day2 | Python more confident, interfacing with python modules and libraries, we wrote a a NumPy program to get the dates of yesterday, today and tomorrow.Python Web Scraping: Wrote a Python program to get the number of followers of a given twitter account. |
-| Day3 | Played around with Big data, wrote a Python program to get the top 20 countries' data (Last Update, Country/Region, Confirmed, Deaths, Recovered) of the Novel Coronavirus (COVID-19) from a .csv file. |
-| Day4 | Interfacing with SQLite database, we wrote a Python program to create an SQLite database and connect with the database and print the version of the SQLite database. |
+| Day1 | Interfacing with Functions in python. |
+| Day2 | Python more confident, interfacing with python data types. |
+| Day3 | Python more confident, interfacing with python numpy library. |
+| Day4 | Python more libraries Interfacing with Nominatim API and GeoPy package and also lambda. |

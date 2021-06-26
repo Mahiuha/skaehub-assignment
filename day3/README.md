@@ -9,7 +9,7 @@
 
 <img src="./Question1.gif" alt="My Project GIF" width="600" height="400">
 
-**Script 2-numpy_memory.py**
+**Script 2-numpy_weekdays.py**
 
 *Question2*
 

@@ -13,4 +13,4 @@ Each directory contains python projects and code that I wrote during my week 1 a
 | Day1 | Interfacing with Functions in python. |
 | Day2 | Python data types. |
 | Day3 | Python more confident, interfacing with python numpy library. |
-| Day4 | Python more libraries Interfacing with Nominatim API and GeoPy package and also lambda. |
+| Day4 | More libraries Interfacing with Nominatim API and GeoPy package and also lambda. |

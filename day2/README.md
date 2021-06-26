@@ -33,4 +33,4 @@ Here are the tools used to work on the assignment
 
 # BLOG. 
 
-[On Becoming A Pythonista Through Skaehub.](https://link.medium.com/oKbTEXjOohb)
+## [On Becoming A Pythonista Through Skaehub.](https://link.medium.com/oKbTEXjOohb)

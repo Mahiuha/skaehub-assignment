@@ -6,7 +6,7 @@ number = int(input('Enter Number: '))
 #this checks if the number provided when devided by four doesnt have a 
 #remainder then prints is a power of four. 
 if (number%4 == 0):
-    print(number, 'is a power of 4')
+    print(number, 'NUmber is a power of 4')
 
 #if the number returns a remainder when devided by four 
 # then it tells the user it is not a poer of 4

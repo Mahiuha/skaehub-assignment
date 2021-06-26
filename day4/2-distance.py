@@ -1,36 +1,27 @@
-# Python 3 program for the
-# haversine formula
+#importing modules and libraries
+#nominatim is an API
+#haversine is a formula for calculating distance between two locations
+from geopy.geocoders import Nominatim
+import haversine as hs
 import math
 
-# Python 3 program for the
-# haversine formula
-def haversine(lat1, lon1, lat2, lon2):
-	
-	# distance between latitudes
-	# and longitudes
-	dLat = (lat2 - lat1) * math.pi / 180.0
-	dLon = (lon2 - lon1) * math.pi / 180.0
+#initialize the Nominatim
+geolocator = Nominatim(user_agent="2-distance.py")
 
-	# convert to radians
-	lat1 = (lat1) * math.pi / 180.0
-	lat2 = (lat2) * math.pi / 180.0
+#this code retrives map data from the string
+location1 = geolocator.geocode("Nairobi")
+location2 = geolocator.geocode("Cairo")
 
-	# apply formulae
-	a = (pow(math.sin(dLat / 2), 2) +
-		pow(math.sin(dLon / 2), 2) *
-			math.cos(lat1) * math.cos(lat2));
-	rad = 6371
-	c = 2 * math.asin(math.sqrt(a))
-	return rad * c
+#this gets specific lat and long
+lat1 = location1.latitude
+lon1 = location1.longitude
+lat2 = location2.latitude
+lon2 = location2.longitude
 
-# Driver code
-if __name__ == "__main__":
-	lat1 = 51.5007
-	lon1 = 0.1246
-	lat2 = 40.6892
-	lon2 = 74.0445
-	
-	print(haversine(lat1, lon1,lat2, lon2), "K.M.")
+#calculates distance between loc1 and loc2
+loc1 = (lat1, lon1)
+loc2 = (lat2, lat1)
+my_hs = hs.haversine(loc1, loc2)
 
-# This code is contributed
-# by ChitraNayal
+#prints the distance as output
+print(my_hs)

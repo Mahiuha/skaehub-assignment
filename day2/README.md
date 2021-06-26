@@ -17,11 +17,11 @@ Here are the tools used to work on the assignment
      
 # Python Problem Sets.
      
-`1. Write a Python program to check if a given positive integer is a power of four.
+`1. Write a Python program to check if a given positive integer is a power of four.`
 
 `2. Write a Python program to check if a number is a perfect square.`
 
-`3. Create a Python project to guess a number that has randomly been selected.
+`3. Create a Python project to guess a number that has randomly been selected.`
 
 `4. Write a Python program to send a request to a web page, and print the response text and content. Also get the raw socket response from the server.`
 
@@ -30,3 +30,5 @@ Here are the tools used to work on the assignment
 `6. Create a Python project to perform some simple statistics on a list of values.`
 
 `7. Create a Python project to read public data returned from URL, and parsing JSON to a dictionary object.`
+
+# BLOG. - [On Becoming A Pythonista Through Skaehub.](https://link.medium.com/oKbTEXjOohb)

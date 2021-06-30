@@ -30,3 +30,4 @@ Each directory contains python projects and code that I wrote during my week 1 a
 * Language: Python
 * Operating System: Linux Ubuntu 20.04 LTS
 * Interpreter: python interpreter
+* Version Control: git and github

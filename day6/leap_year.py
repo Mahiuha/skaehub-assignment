@@ -13,6 +13,6 @@ def leap(year):
     else:
         print(" % d is not a leap year" % year)
 
-year = int(input("Enter the year you wish to check: "))
+x = input("Enter the year you wish to check: ")
 
-leap(year)
+leap(x)

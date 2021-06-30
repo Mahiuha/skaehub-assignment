@@ -5,6 +5,7 @@
 
 import random
 
+
 def password():
     user_input = input("Type strong or fair: ")
 
@@ -16,5 +17,6 @@ def password():
         return password
 
 print(password())
+
 
 

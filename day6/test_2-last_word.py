@@ -3,8 +3,8 @@ import lastword
 
 class testWord(unittest.TestCase):
     def setUp(self):
-        self.word=lastword.word_input
-        self.list=lastword.list
+        self.word=lastword.string
+        self.list=lastword.words
 
     def test_word(self):
         self.assertIs(type(self.word),str)

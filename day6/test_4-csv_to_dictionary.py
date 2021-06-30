@@ -1,22 +1,23 @@
-import csv_to_dictionary
 import unittest
+import csv_to_dictionary
+from csv_to_dictionary import *
 
 class Testcsvdictionary(unittest.TestCase):
 
    
     # read csv test 
     def test_read_csv(self):
-        self.assertIsNotNone(4-csv_to_dictionary.read("peeps.csv"))
+        self.assertIsNotNone(csv_to_dictionary.f("username.csv"))
 
     # file not found test
     def test_file_not_found(self):
         with self.assertRaises(FileNotFoundError):
-            4-csv_to_dictionary.read("")
+            csv_to_dictionary.f("")
 
     # test if correct type
     def test_if_correct_type(self):
         with self.assertRaises(OSError):
-            4-csv_to_dictionary.read(6)
+            csv_to_dictionary.f(6)
     
 
     

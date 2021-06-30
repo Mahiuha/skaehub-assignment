@@ -16,7 +16,7 @@ Each directory contains python projects and code that I wrote during my week 1 a
 | ```Day4``` | More libraries, Interfacing with Nominatim API and GeoPy package and also lambda. |
 | ```Day5``` | Version control with git and github. |
 | ```Day6``` | Test Driven Development with unittest, pytest and nose. |
-| ```Day7``` | More Test Criven Development with unittest, pytest and nose. |
+| ```Day7``` | More Test Driven Development with unittest, pytest and nose. |
 
 ## Libraries.
 

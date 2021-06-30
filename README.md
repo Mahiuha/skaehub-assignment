@@ -24,6 +24,7 @@ Each directory contains python projects and code that I wrote during my week 1 a
 * Geopy
 * lambda.
 * Nominatim API.
+* Unittest, Pytest and Nose.
 
 ## Technologies Used
 

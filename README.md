@@ -14,6 +14,9 @@ Each directory contains python projects and code that I wrote during my week 1 a
 | ```Day2``` | Python data types. |
 | ```Day3``` | Python more confident, interfacing with python numpy library. |
 | ```Day4``` | More libraries, Interfacing with Nominatim API and GeoPy package and also lambda. |
+| ```Day5``` | Version control. |
+| ```Day6``` | Test Driven Development. |
+| ```Day7``` | More Test Criven Development. |
 
 ## Libraries.
 
